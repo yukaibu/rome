@@ -90,11 +90,13 @@ body[class*="category-"]:not(.archetype-regular):not(.archetype-banner) {
     }
     .list-container {
       background-color: white;
-      .topic-list {
-        padding: 10px;
-      }
+      padding-right: 30px;
     }
   }
+}
+
+.post-stream.topic-post.onscreen-post {
+  background-color: white;
 }
 
 .categories-list {
