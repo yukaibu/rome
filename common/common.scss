@@ -998,3 +998,10 @@ div.poll .results .bar-back {
     background-color: var(--highlight-medium);
   }
 }
+
+#main-outlet.list-container {
+  background-color: white;
+  .topic-list {
+    padding: 10px;
+  }
+}
