@@ -95,8 +95,12 @@ body[class*="category-"]:not(.archetype-regular):not(.archetype-banner) {
   }
 }
 
-.post-stream.topic-post.onscreen-post {
-  background-color: white;
+.post-stream {
+  .topic-post {
+    .onscreen-post {
+      background-color: white;
+    }
+  }
 }
 
 .categories-list {
