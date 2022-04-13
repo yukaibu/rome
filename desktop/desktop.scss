@@ -74,7 +74,7 @@ body[class*="category-"]:not(.archetype-regular):not(.archetype-banner) {
     display: grid;
     grid-column-gap: 3em;
 
-    grid-template-columns: 61.8fr 38.2fr;
+    grid-template-columns: 77fr 27fr;
     grid-template-areas:
       "alerts alerts"
       "pins pins"
